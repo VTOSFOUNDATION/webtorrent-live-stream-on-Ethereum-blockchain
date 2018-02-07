@@ -3,6 +3,8 @@ Alpha test of using blockchain Technology and webtorrent for live streaming
 
 
 need to install metamask and use the test network Rinkeby
+
+
 Warning use test network Rinkeby every minute it ask for a transaction using ether, you need to have ether and active metamask in the broadcaster and viewer
 
 
