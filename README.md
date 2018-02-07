@@ -12,7 +12,7 @@ enter to the broadcaster.html pres start to start streaming,  every minute the a
 
 Enter the viewer.html and press start. Metamask will check Ethereum blockchain for the last transaction of the broadcaster and fetch the magnet for the 1 minute segment and start streaming it.
 
-#BUg
+#BUG
 need to fix the pause between the segments.
 
 Ethereum blockchain its an amazing proyect but for this kind of application its not viable at the moment on the mainnet  for that reason this proyect can only run in the test net.
