@@ -1,4 +1,4 @@
-# Webtorrent-live-stream-and-ethereum-Blockchain
+# Webtorrent-live-stream-on-Ethereum-Blockchain
 Alpha test using Blockchain Technology and Webtorrent for live streaming
 
 
